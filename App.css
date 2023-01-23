@@ -1,0 +1,21 @@
+.title{
+
+align-items: center;
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+font-weight:bold;
+padding: 40%;
+font-size: large;
+}
+
+.btn
+{
+  align-items: center;
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+width: 10%;
+  padding: 10px 10px;
+  border: none;
+  border-radius: 40px;
+  cursor:pointer;
+  background-color: #4169E1 ;
+  color: white;
+}
